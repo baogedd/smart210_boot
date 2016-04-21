@@ -1,0 +1,1 @@
+# smart210_boot
